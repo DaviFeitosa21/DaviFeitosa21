@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 Hello, my name is Davi! I currently work as a Delphi Programmer.
 
 ###
@@ -10,7 +10,7 @@ Hello, my name is Davi! I currently work as a Delphi Programmer.
 
 ###
 
-<img align="right" height="300" src="https://i.imgflip.com/8yz23i.gif"  />
+# <img align="right" height="300" src="https://i.imgflip.com/8yz23i.gif"  />
 
 ###
 
