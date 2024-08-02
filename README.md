@@ -14,7 +14,7 @@ Hello, my name is Davi! I currently work as a Delphi Programmer.
 
 ###
 
-🌐 Socials:
+##🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/davisfeitosa21/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/davi-feitosa-a50838221/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC79l8euV0gNyuXdqVeVshCA) 
 
 ###
