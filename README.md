@@ -21,8 +21,4 @@
 
 ###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/DaviFeitosa21/DaviFeitosa21/output/snake.svg" alt="Snake animation" />
-
-###
