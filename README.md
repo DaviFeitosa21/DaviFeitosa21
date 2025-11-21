@@ -3,7 +3,10 @@
 Hello, ny name is Davi.<br>
 I'm a developer with experience in Delphi, I enjoy programming in C/C++, and I'm currently learning game development. I like creating projects that blend logic, creativity, and continuous experimentation.
 
-![GIF](https://media1.tenor.com/m/wXyN_UJwP8MAAAAd/bocchi-bocchi-the-rock.gif)
+<div align="center">
+  <img src="https://media1.tenor.com/m/wXyN_UJwP8MAAAAd/bocchi-bocchi-the-rock.gif" width="500" />
+</div>
+
 ![DaviFeitosa21's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFeitosa21&theme=dracula&show_icons=true&hide_border=false&layout=compact) ![DaviFeitosa21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaviFeitosa21&theme=dracula&hide_border=false)
 
 ## 🔗 Links
