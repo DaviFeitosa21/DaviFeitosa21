@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Hello, ny name is Davi.
+Hello, ny name is Davi.<br>
 I'm a developer with experience in Delphi, I enjoy programming in C/C++, and I'm currently learning game development. I like creating projects that blend logic, creativity, and continuous experimentation.
 
 ![GIF](https://media1.tenor.com/m/wXyN_UJwP8MAAAAd/bocchi-bocchi-the-rock.gif)
