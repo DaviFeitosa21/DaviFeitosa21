@@ -4,12 +4,9 @@ Hello, my name is Davi.<br>
 I'm a developer with experience in Delphi, I enjoy programming in C/C++, and I'm currently learning game development. I like creating projects that blend logic, creativity, and continuous experimentation.
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdrMGpzaDE4NHdhNDkybjNudjcyN3AxdHdoeWpzYjFnazJybHcwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtejbDpwlMYEmQpx1F/giphy.gif" width="300" alt="GIF BOCCHI" />
-
-  <br><br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviFeitosa21&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="180" alt="Top Langs" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DaviFeitosa21&theme=dracula&hide_border=false" height="180" alt="Streak" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdrMGpzaDE4NHdhNDkybjNudjcyN3AxdHdoeWpzYjFnazJybHcwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtejbDpwlMYEmQpx1F/giphy.gif" width="100" alt="GIF BOCCHI" />
 </div>
 
 ## 🔗 Links
