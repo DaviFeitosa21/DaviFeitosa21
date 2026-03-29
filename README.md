@@ -3,7 +3,7 @@
 Hello, my name is Davi.<br>
 I'm a developer with experience in Delphi, I enjoy programming in C/C++, and I'm currently learning game development. I like creating projects that blend logic, creativity, and continuous experimentation.
 
-<div align="left">
+<div align="right">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdrMGpzaDE4NHdhNDkybjNudjcyN3AxdHdoeWpzYjFnazJybHcwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xtejbDpwlMYEmQpx1F/giphy.gif" width="180" alt="GIF BOCCHI" />
 </div>
 
